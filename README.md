@@ -8,7 +8,8 @@
 1.某宝搜索亚克力板定制  
 2. 将本文件发送给店家，1：1制作  
 3. 付款  
-4. star 并follow me   》.《  
+4. 购买4cm*4cm的风扇（注意是否送固定螺丝）
+5. star 并follow me   》.《  
 
 # 效果图：  
 ![nop](./loongsonpi2.png)
