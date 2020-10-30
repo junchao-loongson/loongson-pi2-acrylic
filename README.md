@@ -12,4 +12,4 @@
 5. star 并follow me   》.《  
 
 # 效果图：  
-![nop](./loongsonpi2.png)
+![nop](https://github.com/junchao-loongson/loongson-pi2/blob/master/loongsonpi2.png)
